@@ -8,7 +8,7 @@
 </head>
 <body>
 	<form action="" method="get">
-		FORMULARIO Teclee su nombre:&nbsp; <input type="text"
+		FORMULARIO Teclee su primer nombre:&nbsp; <input type="text"
 			name="nombreUsuario" id="nombreUsuario" size="20" maxlength="50" />
 		<br /> Teclee su clave:&nbsp; <input type="password" name="clave"
 			id="clave" size="10" maxlength="25" /> <br /> Opine sobre mi
